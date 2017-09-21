@@ -35,5 +35,7 @@ Discussions:
 Action Items:
 1. [ ] Ask about limitations on mobile development.
 1. [ ] Open an Issue to discuss project and organisation name.
-1. [ ] Create repository.
-1. [ ] Create Wiki with the pages mentioned above.
+1. [ ] Group members are to research W3C standard.
+1. [x] Create repository.
+1. [x] Create Wiki with the pages mentioned above.
+
