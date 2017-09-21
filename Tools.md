@@ -1,0 +1,1 @@
+This page is to give details on the technologies used in the development of this project. 
