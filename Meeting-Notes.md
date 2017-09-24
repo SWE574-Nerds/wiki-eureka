@@ -33,9 +33,9 @@ Discussions:
 1. A person chosen during the meeting will take the meeting notes and add them to wiki.
 
 Action Items:
-1. [ ] Ask about limitations on mobile development.
-1. [ ] Open an Issue to discuss project and organisation name.
-1. [ ] Group members are to research W3C standard.
+1. [x] Open an Issue to discuss project and organisation name.
+1. [x] Group members are to research W3C standard.
 1. [x] Create repository.
 1. [x] Create Wiki with the pages mentioned above.
+1. [x] Complete homework 1
 
