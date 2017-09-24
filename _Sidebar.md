@@ -7,6 +7,7 @@ Project documents
 - [["How-To"-Guides]]
 - [[API-Documentation]]
 - [[Contribution-Guidelines]]
+- [[Web Annotation Model]]
 
 Project Planning
 - [[Requirements]]
