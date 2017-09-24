@@ -25,4 +25,4 @@ Project Tracking
 
 - [[Meeting-Notes]]
 - [[Team-Members]]
-
+- [[Personal-Logs]]
