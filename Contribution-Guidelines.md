@@ -30,7 +30,7 @@ This option requires a certain level of understanding of git but is useful for p
 2. Make your changes directly on master branch
 3. create patches from your local repository using:
 
-     `git format-patch HEAD...master -o patches/`
+     `git format-patch HEAD...origin/master -o patches/`
 
 4. Send these patches to any of the contributors/active maintainers of this project. You can do this by 
   a. git-send-email (You need to setup git for email. [git-send-email](https://git-scm.com/docs/git-send-email), [smtp on git](https://www.freedesktop.org/wiki/Software/PulseAudio/HowToUseGitSendEmail/))
