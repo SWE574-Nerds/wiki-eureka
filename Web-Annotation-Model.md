@@ -2,7 +2,7 @@
 
 ## Summary
 
-Web annoations, put simply, are associations between two web resource. By providing an 
+Web annotations, put simply, are associations between two web resource. By providing an 
 annotation for a resource, a connection is made, to another resource that may or may
 not be host at the same host with the annotated resource. With these annotations users
 can find relative resources by looking at annotations over the other.
@@ -75,7 +75,7 @@ The Resource Description Framework (RDF) ıs a way of describing web resources a
 
 and so on. In this document, We'll stick with RDF/XML and JSON-LD as these are the most common formats widely used and supported, plus everyone is familiar with XML and JSON.
 
-The DBMSs used to store annotations are not specialized to store annotations, they're specialized to store RDF data and WEb Annotation Model is just a subset of RDF representation, providing a structure of how RDF data should be structured, linking against one another. You can think of WEb Annotation Models are what DB Schemas are for Relational databases, to graph databases. 
+The DBMSs used to store annotations are not specialized to store annotations, they're specialized to store RDF data and Web Annotation Model is just a subset of RDF representation, providing a structure of how RDF data should be structured, linking against one another. You can think of Web Annotation Models are what DB Schemas are for Relational databases, to graph databases. 
 
 If we were to rewrite the prevoiusly provided sample.json in RDF/XML it would look like this: 
 
