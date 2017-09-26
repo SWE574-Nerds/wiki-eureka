@@ -13,6 +13,7 @@ Project Planning
 - [[Requirements]]
 - [[Requirements-elicitation-questions]]
 - [[Project-Plan]]
+- [[Customer feedback]]
 
 Design Documents
 - [[Diagrams]]
