@@ -16,3 +16,8 @@ and weak points of using this standard. I feel condifent that this way we've fou
 out is a good technical place to begin from.
 - Wrote about the contribution guidelines and the project documentation structure.
 
+
+## Week 2
+
+- This week's plan is to get the requirements ready as soon as possible and also create some mockups.
+- 
