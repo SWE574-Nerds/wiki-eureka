@@ -1,1 +1,9 @@
 ## Ece Ada's Personal Log
+# Week 1
+* Had a meeting with the team members. 
+* Read the provided resources and took notes. 
+* Research Web Annotation Model, Linked Data Platform, JSON-LD
+* Download GraphDB and familiarize
+* Prepare Requirement Elicitation Questions based on research and resources provided. 
+* Brainstorm ways to acquire data for the project.
+* Created issues to discuss planning and project management methodology. 
