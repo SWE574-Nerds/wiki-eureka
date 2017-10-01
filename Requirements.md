@@ -1,4 +1,12 @@
 ## List of Definitions
+**User:** User is any person accessing Eureka application from or mobile.
+
+**Authenticated User:** An authenticated user is a user who is logged in to the application.
+
+**Annotation:** Annotation is web annotation; associations between two web resources, a set of connected resources including a body and target and conveys that the body is related to the target. ([Web Annotation Data Model](https://www.w3.org/TR/annotation-model/))
+
+**Living History Item:** Posts created by users; including location, time and story. Living history stories may refer to tangible things or not. Stories are often related to a given time, people and location.
+
 ## Functional Requirements
 ### 1. Account Management
 a. Users shall create their accounts after they provide their username, email and password.
@@ -25,7 +33,7 @@ d. Living History Items can be created using Web-interface or Mobile application
 
 	a. Mobile application users shall be able to can take a photo or choose a photo.
 
-	b. Web interface users shall be ablw to upload a photo.
+	b. Web interface users shall be able to upload a photo.
 
 #### Editing
 e. Users shall be able to edit their living history items as long as there's no annotation.
