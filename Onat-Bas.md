@@ -21,3 +21,18 @@ out is a good technical place to begin from.
 
 - This week's plan is to get the requirements ready as soon as possible and also create some mockups.
 - I've written the requirements to the best of my abilities. Still WIP, but It looks ok for now.
+- I've created mockups for 
+
+   a. Signup
+
+   b. Home page
+
+   c. First login page
+
+   d. Used home page (home page with content)
+
+   e. Living history page (Annotated, not-annotated, being annotated)
+- I've used balsamiq for creating the mockups. The png files and json files for balsamiq mockups are 
+added seperately. I also included the balsamiq project file.
+- These efforts needs to be discussed by the team so I opened a discussion issue for the team to review
+the mockups and give feedback. Hopefully these mockups will help us better design the application.
