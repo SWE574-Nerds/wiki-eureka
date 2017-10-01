@@ -1,5 +1,5 @@
 ## List of Definitions
-**User:** User is any person accessing Eureka application from or mobile.
+**User:** User is any person accessing Eureka application from web or mobile.
 
 **Authenticated User:** An authenticated user is a user who is logged in to the application.
 
