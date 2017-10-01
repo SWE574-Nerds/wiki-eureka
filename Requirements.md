@@ -34,7 +34,7 @@ d. Living History Items can be created using Web-interface or Mobile application
 	a. Mobile application users shall be able to can take a photo or choose a photo.
 
 	b. Web interface users shall be able to upload a photo.
-
+                                         
 #### Editing
 e. Users shall be able to edit their living history items as long as there's no annotation.
 
@@ -50,11 +50,12 @@ f. Living history page shall display living history content, the author, and the
 g. Annotations shall be shown when highlights are hovered, in a pop-up view.
 
 	a. A more button in this pop-up shall show next annotation if another annotation with same target exist.
-
+h. Anonymous users shall display the public history items, but they cannot modify the content. 
 ### 3. Annotations
 (WIP)
 
 ### 4. Site-features
+i. The site should be compatible with all modern browsers.            
 (WIP)
 
 ## Non-functional Requirements
@@ -68,5 +69,5 @@ is stored in local content provider.
 6. System shall implement W3C's Web Annotation Model and a standard annotation storage strategy
 for annotations.
 7. The work shall adhere to third-party license requirements.
-8. The work shall be provided with MIT open-source software license to open public.
-
+8. The work shall be provided with MIT open-source software license to open public.                          
+             
