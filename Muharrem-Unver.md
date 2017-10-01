@@ -9,3 +9,10 @@
 - Discuss about tools that are used for PM works.
 - Create issues for first week and manage github wiki pages.
 - Decide which technologies are used during the project.
+
+## Week 2
+- Requirements elicitation and review.
+- Mockup review
+- Search for similar applications
+- First exercises with Phyton
+
