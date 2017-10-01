@@ -20,4 +20,4 @@ out is a good technical place to begin from.
 ## Week 2
 
 - This week's plan is to get the requirements ready as soon as possible and also create some mockups.
-- 
+- I've written the requirements to the best of my abilities. Still WIP, but It looks ok for now.
