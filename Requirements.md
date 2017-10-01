@@ -50,12 +50,12 @@ f. Living history page shall display living history content, the author, and the
 g. Annotations shall be shown when highlights are hovered, in a pop-up view.
 
 	a. A more button in this pop-up shall show next annotation if another annotation with same target exist.
+
 h. Anonymous users shall display the public history items, but they cannot modify the content. 
 ### 3. Annotations
 (WIP)
 
 ### 4. Site-features
-i. The site should be compatible with all modern browsers.            
 (WIP)
 
 ## Non-functional Requirements
@@ -70,4 +70,4 @@ is stored in local content provider.
 for annotations.
 7. The work shall adhere to third-party license requirements.
 8. The work shall be provided with MIT open-source software license to open public.                          
-             
+9. The site should be compatible with modern browsers such as Firefox or Chrome.            
