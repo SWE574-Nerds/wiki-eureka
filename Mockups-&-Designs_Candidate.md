@@ -48,8 +48,12 @@ In this document, I'd like to simulate a user's steps in using this application.
 
 13. There are annotations in his page. He can see the annotated parts are highlighted in yellow!
 
-14. He wants to see the annotation on the picture, clearly showing the cat's pose. So he hovers the picture, and sees the annotation in the pop-up.
+14. He wants to see the annotation on the picture, clearly showing the cat's pose. So he clicks the highlighted area in the picture, and sees the annotation.
 
 ![](https://github.com/SWE574-Nerds/friendly-eureka/blob/master/design/mockups/annotated-item-picture.png?raw=true)
+
+OR
+
+![](https://github.com/SWE574-Nerds/friendly-eureka/blob/master/design/mockups/annotated-item-picture_2.png?raw=true)
 
 15. Modali742, submitted the original picture of the Tombili, which made him famous!
