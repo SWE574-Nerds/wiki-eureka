@@ -6,4 +6,11 @@
 * Download GraphDB and familiarize
 * Prepare Requirement Elicitation Questions based on research and resources provided. 
 * Brainstorm ways to acquire data for the project.
-* Created issues to discuss planning and project management methodology. 
+* Created issues to discuss planning and project management methodology.
+ 
+# Week 2
+* Created requirements for the project. 
+* Research and familiarize DJANGO v1.11 and Bootstrap  
+* Reviewed the candidate mock-up designs. 
+
+

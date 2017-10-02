@@ -38,6 +38,9 @@ d. Living History Items can be created using Web-interface or Mobile application
 #### Editing
 e. Users shall be able to edit their living history items as long as there's no annotation.
 
+#### Searching
+a. Users and Authenticated users shall be able to search living history items by name, region, location, time and user. 
+
 #### Display
 f. Living history page shall display living history content, the author, and the annotations.
 
@@ -53,7 +56,12 @@ g. Annotations shall be shown when highlights are hovered, in a pop-up view.
 
 h. Anonymous users shall display the public history items, but they cannot modify the content. 
 ### 3. Annotations
-(WIP)
+
+a. Only authenticated users shall be able to add at least one annotation to at least one coordinate on the video or image file on all living history items.
+
+b. Users and Authenticated users shall be able to view the annotations created by the user
+
+c. Only authenticated users shall be able to update, delete the annotations if and only if they are the creator of that annotation. 
 
 ### 4. Site-features
 (WIP)
