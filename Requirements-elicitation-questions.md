@@ -28,6 +28,6 @@ This page is created to document list of questions to clarify requirements.
 ## Success Criteria 
 1. What is most important for success of the application?
 
-## Limitations
+## Limitations 
 1. What are the limitations on Mobile development?
 1. Is there a need for web extension?
