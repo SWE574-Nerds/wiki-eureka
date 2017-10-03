@@ -11,6 +11,14 @@
 # Week 2
 * Created requirements for the project. 
 * Research and familiarize DJANGO v1.11 and Bootstrap  
-* Reviewed the candidate mock-up designs. 
+* Reviewed the candidate mock-ups. 
+* Created mobile mock-ups for the following pages:
+  1. App Description Page
+  2. Sign-up Page 
+  3. Home
+  4. Creating A Living History Item
+
+
+
 
 
