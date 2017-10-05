@@ -6,6 +6,10 @@
 - Getting familiar with python 3
 
 ### Week 2
+- Document meeting notes
 - Study python&Django
 - Review mockups
 - Review requirements
+
+### Week 3
+- Document meeting notes

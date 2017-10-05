@@ -23,7 +23,7 @@ a. Only authenticated (logged-in) users shall be able to create living history i
 
 b. Users shall provide at least a picture and a title when creating a living history item.
 
-c. Users may provide additional information, such as location, time, sound or video.
+c. Users may provide additional information, such as time, audio or video.
 
 	a. Location can be in formats such as, name, region, point-in-map or area-in-map.
 
@@ -39,7 +39,7 @@ d. Living History Items can be created using Web-interface or Mobile application
 e. Users shall be able to edit their living history items as long as there's no annotation.
 
 #### Searching
-a. Users and Authenticated users shall be able to search living history items by name, region, location, time and user. 
+a. Users and Authenticated users shall be able to search living history items by name, description, and time period. 
 
 #### Display
 f. Living history page shall display living history content, the author, and the annotations.
