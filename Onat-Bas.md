@@ -36,3 +36,21 @@ out is a good technical place to begin from.
 added seperately. I also included the balsamiq project file.
 - These efforts needs to be discussed by the team so I opened a discussion issue for the team to review
 the mockups and give feedback. Hopefully these mockups will help us better design the application.
+
+
+## Week 3
+
+- We have requirements defined enough to start working on backend features.
+- We've decided on using the following technologies for backend:
+	a. DigitalOcean - for Hosting
+
+	b. Docker - for Deployment
+
+	c. PostgreSQL - for application DB
+
+	d. GitFlow - for git workflow
+
+- I've created the skeleton project using these technologies. Backend project is created in such a
+way the application will run in containers orchestrated with docker-compose. 
+- Postgres binding is established, the DB that's being used is also created via docker-compose. 
+- Class diagram is being created. Use-case diagrams are opened for discussion in github issues.
