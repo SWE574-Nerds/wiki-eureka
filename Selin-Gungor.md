@@ -13,3 +13,6 @@
 
 ### Week 3
 - Document meeting notes
+- UML diagram is created for living history items
+- UML diagram is created for notification system
+- Milestones are defined

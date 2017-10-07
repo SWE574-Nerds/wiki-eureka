@@ -17,12 +17,11 @@ Project Planning
 - [[Time-estimations]]
 
 Design Documents
-- [[Diagrams]]
 - [[Mockups-&-Designs]]
 - [[Mockups-&-Designs-for-Mobile]]
+- [[Use case diagrams]]
 - [[Design-Documents]]
 - [[Tools]]
-- [[Use case diagram of Eureka  living history items]]
 - [[Use-Cases]]
 
 Project Tracking
