@@ -14,6 +14,7 @@ Project Planning
 - [[Requirements-elicitation-questions]]
 - [[Project-Plan]]
 - [[Customer feedback]]
+- [[Time-estimations]]
 
 Design Documents
 - [[Diagrams]]
