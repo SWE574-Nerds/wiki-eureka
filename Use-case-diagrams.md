@@ -7,4 +7,4 @@ This document includes use case diagrams of eureka.
 
 - An use case diagram to define notification system of eureka.
 
-![Use case diagram](https://github.com/SWE574-Nerds/friendly-eureka/blob/master/design/usecasediagrams/NotificationDiagramEureka.png?raw=true)
+![Use case diagram](https://github.com/SWE574-Nerds/friendly-eureka/blob/master/design/usecasediagrams/NotificationDiagramEureka.png)
