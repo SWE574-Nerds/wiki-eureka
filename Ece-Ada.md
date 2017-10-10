@@ -15,7 +15,11 @@
 |Research and familiarize DJANGO v1.11 and Bootstrap|09/28/17|09/28/17|4|   
 |Reviewed the candidate mock-ups. |10/02/17|10/02/17|1| 
 | Created mobile mock-ups for the following pages: App Description Page, Sign-up Page, Home, Creating A Living History Item|10/02/17|10/02/17|3| 
-
+| _**Week3**_|
+|Research and familiarize git commands|10/08/17|10/08/17|0.5|  
+|Research and familiarize Android|10/08/17|10/08/17|2|  
+|Start a tutorial on DJANGO v1.11 and Bootstrap by codingforentrepreneurs|10/08/17|10/08/17|2|  
+| Created ER diagrams for the project.|10/02/17|10/02/17|2| 
 
 
 
