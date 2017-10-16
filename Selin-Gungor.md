@@ -16,3 +16,6 @@
 - UML diagram is created for living history items
 - UML diagram is created for notification system
 - Milestones are defined
+
+### Week 4
+- Css selector experiment
