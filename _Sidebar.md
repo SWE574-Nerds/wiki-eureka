@@ -17,8 +17,8 @@ Project Planning
 - [[Time-estimations]]
 
 Design Documents
-- [[Mockups-&-Designs]]
-- [[Mockups-&-Designs-for-Mobile]]
+- [[Mockups-&-Designs]](https://github.com/SWE574-Nerds/friendly-eureka/wiki/Mockups-&-Designs)
+- [[Mockups-&-Designs-for-Mobile]](https://github.com/SWE574-Nerds/friendly-eureka/wiki/Mockups-&-Designs-for-Mobile)
 - [[Use case diagrams]]
 - [[Design-Documents]]
 - [[Tools]]

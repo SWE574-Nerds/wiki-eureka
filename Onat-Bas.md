@@ -54,3 +54,18 @@ the mockups and give feedback. Hopefully these mockups will help us better desig
 way the application will run in containers orchestrated with docker-compose. 
 - Postgres binding is established, the DB that's being used is also created via docker-compose. 
 - Class diagram is being created. Use-case diagrams are opened for discussion in github issues.
+
+## Week 4
+
+- As proposed and accepted by the team, the API documentation with swagger has been established.
+- Infrastructure work on backend service is made such as:
+1. Implementation of API base.
+2. Implementation of certain API endpoints.
+3. Implementation of Token based API authentication. 
+- Endpoints required for mobile to work for third milestone has been implemented. Mobile is ready to go.
+- A Content provider for image sources is implemented and provided as a docker image with the source code. 
+1. This is important because w want the data tobe completely independent from our codebase. 
+2. Content provider maintenance is a pain to handle within the application. So it's been delegated to it's own service.
+- Backend microservice refactored in such a way images will always be hosted in the above-mentioned `image` service.
+- Peer reviewing tasks are executed.
+- Ontotext graphDB Python SDK is being researched, we will have a working annotation Proof-of-concept soon.
