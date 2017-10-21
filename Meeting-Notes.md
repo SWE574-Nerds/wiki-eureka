@@ -15,3 +15,5 @@ This main thread is to include our meeting notes
 1. [Team Meeting - 7 October 2017](https://github.com/SWE574-Nerds/friendly-eureka/wiki/Team-Meeting-7-October-2017)
 
 1. [Team Meeting - 10 October 2017](https://github.com/SWE574-Nerds/friendly-eureka/wiki/Team-Meeting-10-October-2017)
+
+1. [Team Meeting - 17 October 2017](https://github.com/SWE574-Nerds/friendly-eureka/wiki/Team-Meeting---17-September-2017)
