@@ -18,4 +18,7 @@
 - Milestones are defined
 
 ### Week 4
-- Css selector experiment
+- Css selector experiment with[css selector generator](https://github.com/fczbkk/css-selector-generator)
+
+### Week 5
+- Creating annotation using [annotorious](https://github.com/annotorious/annotorious/wiki).
