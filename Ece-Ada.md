@@ -20,6 +20,13 @@
 |Research and familiarize Android|10/08/17|10/08/17|2|  
 |Start a tutorial on DJANGO v1.11 and Bootstrap by codingforentrepreneurs|10/08/17|10/08/17|2|  
 | Created ER diagrams for the project.|10/02/17|10/02/17|2| 
+| _**Week4**_| 
+|Setup Android Environment on Windows and Sierra|10/14/17|10/14/17|5|  
+|Implemented SignUp for Android|10/15/17|10/15/17|5| 
+| _**Week4**_| 
+|Setup Android Environment in High Sierra Beta Investigation of HAXM Problems|10/20/17|10/20/17|5|  
+|Implemented Login for Android|10/21/17|10/21/17|3|  
+|Familiarize Django|10/21/17|10/21/17|2|  
 
 
 
