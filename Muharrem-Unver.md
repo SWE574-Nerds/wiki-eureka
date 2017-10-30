@@ -14,5 +14,17 @@
 - Requirements elicitation and review.
 - Mockup review
 - Search for similar applications
-- First exercises with Phyton
+- First exercises with Phyton           
+
+## Week 3
+- Class diagram reviewed.
+- Introduction to new technologies to me                           
+  a. DigitalOcean - for Hosting                     
+  b. Docker - for Deployment                                   
+  c. PostgreSQL - for application DB                                       
+  d. GitFlow - for git workflow                                         
+
+## Week 4
+- Angular research           
+- First exercises with Angular.                
 
