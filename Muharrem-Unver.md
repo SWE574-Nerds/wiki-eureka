@@ -28,3 +28,6 @@
 - Angular research           
 - First exercises with Angular.                
 
+## Week 5                
+- Advanced exercises with Angular                        
+- Front-end development of some pages.              
