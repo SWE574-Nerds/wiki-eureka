@@ -23,11 +23,20 @@
 | _**Week4**_| 
 |Setup Android Environment on Windows and Sierra|10/14/17|10/14/17|5|  
 |Implemented SignUp for Android|10/15/17|10/15/17|5| 
-| _**Week4**_| 
+| _**Week5**_| 
 |Setup Android Environment in High Sierra Beta Investigation of HAXM Problems|10/20/17|10/20/17|5|  
 |Implemented Login for Android|10/21/17|10/21/17|3|  
 |Familiarize Django|10/21/17|10/21/17|2|  
-
-
+| _**Week6**_|  
+|Implemented Floating action button for Android|10/29/17|10/29/17|3|  
+|Implemented Feed and basic Listory Item for Android|10/30/17|10/30/17|3|  
+| _**Week7**_|  
+|Implemented further details for the listory item|11/05/17|11/05/17|7|  
+| _**Week8**_|  
+|Research and implementation of beneficial repositories (Special thanks to Jake Wharton)|11/10/17|11/10/17|4|  
+|Bug Fixes for Android|11/13/17|11/13/17|3|  
+| _**Week9**_|  
+|Implemented Create Listory Item Page for Android|11/17/17|11/20/17|18|  
+|Implemented Feed for Android with real created data|11/20/17|11/21/17|8.5|  
 
 
