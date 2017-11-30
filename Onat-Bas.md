@@ -89,3 +89,13 @@ way the application will run in containers orchestrated with docker-compose.
 - Peer code reviews and bugfixes were made.
 - Annotation trainings were held for some teammates.
 - Dockerization and complete pipeline for the front-end application
+
+
+## Week 7-8
+- Category switched to Tags.
+1. Instead of choosing category, user can add in tags which will be stored and be used for filtering.
+- Maps implementation added. Both for area, and lines, and conjunctions of them.
+1. Using google maps, user can choose multiple markers and polygonal lines and name them, which will then be stored with the listory.
+- Annotation store implemented.
+1. There's an annotation drawer in detail view now. Users can expand it to see the annotations and create new ones.
+- Text and image annotations implemented. 
