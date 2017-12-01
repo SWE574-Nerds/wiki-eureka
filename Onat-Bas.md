@@ -69,3 +69,23 @@ way the application will run in containers orchestrated with docker-compose.
 - Backend microservice refactored in such a way images will always be hosted in the above-mentioned `image` service.
 - Peer reviewing tasks are executed.
 - Ontotext graphDB Python SDK is being researched, we will have a working annotation Proof-of-concept soon.
+
+
+## Week 5
+
+ - Implemented Angular front-end application with following components:
+1. login/register
+2. crate listory
+3. listory update/delete
+4. detail view for listory
+5. all view for page content.
+6. user profile
+- Implemented token-based front-end application. No monolithic application. front-end instance is completely seperate from backend.
+
+
+## Week 6
+- Category and timing is implemented for the UI. They're parametric so we can add any number of inputs to listories. 
+1. View and backend updated along with these changes
+- Peer code reviews and bugfixes were made.
+- Annotation trainings were held for some teammates.
+- Dockerization and complete pipeline for the front-end application
