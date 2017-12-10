@@ -29,4 +29,5 @@
 ### Week 8-9  
 - Test Plan, Test Strategy documents are created.
 - Automated Testing approach document is created.
-- Test Cases are enhanced.
+- Test Cases are enhanced.   
+[Presentation, please click](https://youtu.be/otUE9Y6Z1ZM)

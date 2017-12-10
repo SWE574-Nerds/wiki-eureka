@@ -8,9 +8,9 @@
 
 ### Tools to Use: 
 1. Cucumber
+1. Selenium
 1. Java
 1. JUnit
-1. TestNG
 1. Chrome Driver
 
 ### Sample Test Cases 
