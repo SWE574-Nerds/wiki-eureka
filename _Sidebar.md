@@ -24,6 +24,11 @@ Design Documents
 - [[Tools]]
 - [[Use-Cases]]
 
+Testing
+- [[Test Plan]]
+- [[Test Strategy]]
+- [[Test Reporting]]
+
 Project Tracking
 
 - [[Meeting-Notes]]

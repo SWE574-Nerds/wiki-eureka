@@ -22,3 +22,11 @@
 
 ### Week 5
 - Creating annotation using [annotorious](https://github.com/annotorious/annotorious/wiki).
+
+### Week 7  
+- Cucumber is introduced. Automated test project is created.  
+
+### Week 8-9  
+- Test Plan, Test Strategy documents are created.
+- Automated Testing approach document is created.
+- Test Cases are enhanced.
