@@ -12,3 +12,27 @@
 1. JUnit
 1. TestNG
 1. Chrome Driver
+
+### Sample Test Cases 
+
+All tets cases should be defined in feature files.
+
+**Scenario Outline:** Scenario description  
+    **Given** Given condition for test  
+    **When** Action step for test with given "param"          
+    **Then** Expected result for test               
+ 
+     Examples:  
+       | param         |
+       | patameter1    |
+       | paramater2    |
+
+### Automated Test Project
+
+[Test project path](https://github.com/SWE574-Nerds/friendly-eureka/tree/master/tests/friendlyeureka)
+
+### Running Automated Tests
+To run automated test please run the commands below:  
+
+> cd /friendly-eureka/tests/friendlyeureka  
+> mvn test

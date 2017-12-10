@@ -27,6 +27,8 @@ Design Documents
 Testing
 - [[Test Plan]]
 - [[Test Strategy]]
+- [[Automated Testing]]
+- [[Test Cases]]
 - [[Test Reporting]]
 
 Project Tracking
