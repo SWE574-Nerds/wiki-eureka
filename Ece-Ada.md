@@ -31,12 +31,26 @@
 |Implemented Floating action button for Android|10/29/17|10/29/17|3|  
 |Implemented Feed and basic Listory Item for Android|10/30/17|10/30/17|3|  
 | _**Week7**_|  
-|Implemented further details for the listory item|11/05/17|11/05/17|7|  
+|Implemented further details for the listory item|11/05/17|11/05/17|7|
+|Research RecyclerViews|11/06/17|11/06/17|6| 
+|Research Android Adapters|11/07/17|11/07/17|5.5| 
 | _**Week8**_|  
 |Research and implementation of beneficial repositories (Special thanks to Jake Wharton)|11/10/17|11/10/17|4|  
 |Bug Fixes for Android|11/13/17|11/13/17|3|  
 | _**Week9**_|  
-|Implemented Create Listory Item Page for Android|11/17/17|11/20/17|18|  
+|Implemented Create Listory Item Page for Android|11/17/17|11/20/17|18| 
+|Research on Event Bus|11/19/17|11/19/17|9| 
 |Implemented Feed for Android with real created data|11/20/17|11/21/17|8.5|  
+| _**Week10**_|  
+|Created Map Page to create Listory Item for Android|11/23/17|11/24/17|14|  
+|Implemented Path and Markers on the Android Map Page|11/25/17|11/25/17|7|  
+| _**Week11**_|  
+|Created a Listory Item Detail Page |11/30/17|11/30/17|6|  
+|Text Selection for annotation Trials|12/01/17|11/01/17|5|  
+| _**Week12**_|  
+|Implemented ChipView Framework for Tag selection on Create Listory Item Page |12/06/17|12/06/17|6|  
+|Listed Annotations on the Detail Listory Item Page|12/08/17|12/10/17|16|  
+|Implemented Creating Annotations on the Detail Listory Item Page|12/17/11|12/11/17|10|
+|Bug Fixes|12/09/11|12/13/17|13|  
 
 
