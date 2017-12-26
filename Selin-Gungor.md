@@ -30,4 +30,7 @@
 - Test Plan, Test Strategy documents are created.
 - Automated Testing approach document is created.
 - Test Cases are enhanced.   
-[Presentation, please click](https://youtu.be/otUE9Y6Z1ZM)
+[Presentation, please click](https://youtu.be/otUE9Y6Z1ZM)    
+  
+### Week 10
+- Annotation implementation for selecting specific area on the image from listory item.  
