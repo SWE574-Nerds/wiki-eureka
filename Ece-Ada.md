@@ -51,6 +51,9 @@
 |Implemented ChipView Framework for Tag selection on Create Listory Item Page |12/06/17|12/06/17|6|  
 |Listed Annotations on the Detail Listory Item Page|12/08/17|12/10/17|16|  
 |Implemented Creating Annotations on the Detail Listory Item Page|12/17/11|12/11/17|10|
-|Bug Fixes|12/09/11|12/13/17|13|  
-
-
+|Bug Fixes|12/09/17|12/13/17|13|  
+| _**Week13**_|  
+|Bug Fixes|12/13/17|12/21/17|20|  
+| _**Week14**_|  
+|Bug Fixes|12/13/17|12/21/17|20|  
+|Backend Adjustments|12/21/17|01/06/18|22|  
